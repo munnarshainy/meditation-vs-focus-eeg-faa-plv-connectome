@@ -114,8 +114,7 @@ to control for 5 simultaneous comparisons.
 ## Notebooks
 | Notebook | Description |
 |----------|-------------|
-| `03_erp_analysis.ipynb` | ERP + PSD pipeline (single & grand average) |
-| `04_mindwandering_vs_focused.ipynb` | Connectivity & spectral comparison |
+| `mindwandering_vs_focused.ipynb` | Connectivity & spectral comparison |
 
 ---
 
