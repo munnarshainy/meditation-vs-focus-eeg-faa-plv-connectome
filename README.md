@@ -70,9 +70,9 @@ Place downloaded data in `data/` following BIDS structure.
 | Band  | MW Mean (µV²/Hz) | Focused Mean (µV²/Hz) | p-value | Sig |
 |-------|-----------------|----------------------|---------|-----|
 | Delta | 1.203e-11 | 1.402e-11 | 0.016 | ns† |
-| Theta | 1.675e-12 | 2.208e-12 | 0.0005 | ✓* |
+| Theta | 1.675e-12 | 2.208e-12 | 0.0005 | * |
 | Alpha | 5.542e-12 | 6.043e-12 | 0.386 | ns |
-| Beta  | 6.653e-13 | 9.425e-13 | 0.003 | ✓* |
+| Beta  | 6.653e-13 | 9.425e-13 | 0.003 | * |
 | Gamma | 1.520e-13 | 1.777e-13 | 0.066 | ns |
 
 †Delta reached p<0.05 but not the conservative p<0.005 threshold applied
