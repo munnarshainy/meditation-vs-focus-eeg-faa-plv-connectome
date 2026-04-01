@@ -128,7 +128,7 @@ to control for 5 simultaneous comparisons.
 ---
 
 ## Background & Motivation
-Mind wandering — the tendency of attention to drift from the present task — 
+Mind wandering; the tendency of attention to drift from the present task,
 is associated with reduced wellbeing, increased rumination, and depressive 
 symptoms. Understanding its neural correlates via EEG offers a path toward 
 objective, passive monitoring of attentional states with applications in 
