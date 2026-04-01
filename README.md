@@ -62,6 +62,7 @@ Place downloaded data in `data/` following BIDS structure.
 | sub-001 | ses-02  | 4 | 3  | YES |
 | ...     | ...     | .. | .. | . |
 | sub-003 |ses-01   | 0|0   |  NO|
+| ...     | ...     | .. | .. | . |
 | All 24  | Both    | 329 total | 171 total | 21 recordings |
 
 ---
