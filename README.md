@@ -14,9 +14,7 @@ functional connectivity between self-reported mind wandering and focused
 meditation states across 24 participants and 2 sessions.
 
 This work directly replicates and extends the findings of:
-> Brandmeyer, T., & Delorme, A. (2018). Reduced mind wandering in 
-> experienced meditators and associated EEG correlates. 
-> *Experimental Brain Research*, 236(9), 2519–2528.
+> Brandmeyer, T., & Delorme, A. (2018). Reduced mind wandering in experienced meditators and associated EEG correlates. Experimental brain research, 236(9), 2519–2528. https://doi.org/10.1007/s00221-016-4811-5
 
 ---
 
